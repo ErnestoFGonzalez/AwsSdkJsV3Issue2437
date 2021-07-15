@@ -68,4 +68,3 @@ Executing `client.send(command)` catches a `TypeError: undefined is not an objec
 #### Expected behavior
 
 The expected behaviour is to receive a `CreateJobCommandOutput` instance.
-# AwsSdkJsV3Issue2437
